@@ -1,4 +1,4 @@
-"""
+/*
 title：二维数组中的查找
 writer：山客
 date：2021.3.29
@@ -13,7 +13,7 @@ example：
 ]
 给定 target = 5，返回 true。
 给定 target = 20，返回 false。
-"""
+*/
 
 class Solution {
 public:
